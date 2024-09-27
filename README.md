@@ -1,4 +1,4 @@
-# Lung-Cancer-Detection
+# LungScan AI
 # A CNN model trained on Kaggle dataset using Deep Learning
 
 # The automatic lung cancer detection approach makes detection easier, while also
